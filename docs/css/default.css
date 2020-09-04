@@ -1047,4 +1047,13 @@ ul.contact li a.icon-rss:before
 {
 	color: white!important;
 }
-  
+
+#featured-background
+{
+	background:  #383838!important;
+}
+
+.back-menu
+{
+	margin-bottom:30px;
+}
