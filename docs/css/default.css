@@ -1055,5 +1055,8 @@ ul.contact li a.icon-rss:before
 
 .back-menu
 {
-	margin-bottom:30px;
+	box-shadow: thistle;
+	padding:10px;
+	border-style: solid!important;
+	border-color:#E24E2A!important;
 }
